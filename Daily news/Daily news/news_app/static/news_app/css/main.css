@@ -1,0 +1,22 @@
+body{
+    font-family: verdana;
+    color: #e0e1e4;
+    background-color: #222f4f;
+}
+#categories{
+    /* background-color: #ddd; */
+    display: none;
+    /* background-color: #ddd; */
+}
+#category_open{
+    display: inline;
+}
+#category_close{
+    display: none;
+}
+#more_news{
+    display: none;
+}
+.card{
+    background-color: #141527;
+}
